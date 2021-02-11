@@ -1,0 +1,21 @@
+{
+    "name": "1ockwood-syntax",
+    "displayName": "1ockwood-syntax",
+    "description": "Personal VS Code Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "1ockwood-syntax",
+                "uiTheme": "vs-dark",
+                "path": "./themes/1ockwood-syntax-color-theme.json"
+            }
+        ]
+    }
+}
